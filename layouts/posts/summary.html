@@ -1,0 +1,6 @@
+        <span class="post-title"><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a> <br /></span>
+        <p class="post-date">{{ .Date.Format "January 2, 2006" }}</p>
+        <p>{{ .Summary }}</p>
+        <footer>
+            <a href='{{ .Permalink }}'><nobr>Read more →</nobr></a>
+        </footer>

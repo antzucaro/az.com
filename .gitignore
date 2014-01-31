@@ -1,0 +1,5 @@
+# We don't need to track the gazillions of image files I upload :>
+static/uploads/
+
+# The destination/output directory
+public/
