@@ -3,6 +3,7 @@ title: "The Bay Area in Black and White"
 date: "2014-01-11"
 categories: 
   - "photography"
+headline: "/uploads/2014/1/BayAreaInBW/m/headline.jpg"
 ---
 It's gray and rainy outside, and I have the house all to myself this weekend. The general lack of a color palette outside made me think back to my trip to the San Franciso Bay area - all of the fog there works really well for photography. Keeping this in mind, I sifted through the old pictures for examples fitting the mood outside my window. Here's what I came up with. 
 

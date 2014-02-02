@@ -3,6 +3,7 @@ title: "Shepherdstown, West Virginia"
 date: "2013-12-31"
 categories: 
   - "photography"
+headline: "/uploads/2013/12/Shepherdstown/m/headline.jpg"
 ---
 The new year is rapidly approaching, and so is the time when I have to go back to work. Wanting to get the most out of the day, we went out to Shepherdstown, WV to walk around. It had been a really long time since we'd been, and with Layla in daycare all day we wanted to seize the opportunity. We packed up the little one and made the hour and a half journey. 
 
