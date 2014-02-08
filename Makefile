@@ -1,4 +1,4 @@
-deploy:
+deploy: gen
 	rsync --size-only -av public/ azucaro@antzucaro.com:/home/azucaro/antzucaro.com/public/
 
 gen:
