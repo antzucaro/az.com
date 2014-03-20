@@ -7,4 +7,4 @@ categories:
 ---
 Here is my latest interview. It is with an advanced dueler from Great Britain: kojn. Enjoy!
 
-<p style="text-align: center;">
+<iframe width="640" height="360" src="//www.youtube-nocookie.com/embed/l-U24-U7wDk" frameborder="0" allowfullscreen></iframe>

@@ -8,3 +8,4 @@ categories:
 ---
 I am happy to announce the first (of many, hopefully) player interviews, where you can hear players respond to my questions while you watch a sample of their actual gameplay. In this one I talk with chooksta, who is known to all of us in the Xonotic community as both a nice guy and a talented musician. We talk about how he first came to play the game, his music, and what he's looking forward to in Xonotic. The gameplay sample is from a game on "mentalrespace" on an Australian server. I hope you all enjoy!
 
+<iframe width="640" height="360" src="//www.youtube-nocookie.com/embed/XQ8qOVoyHfY" frameborder="0" allowfullscreen></iframe>
