@@ -1,5 +1,5 @@
 ---
-title: "An Warm Winter Day in Middleburg"
+title: "A Warm Winter Day in Middleburg"
 date: "2014-03-01 18:12:00-05:00"
 categories:
    - "photography"
@@ -7,7 +7,7 @@ tags:
    - "panorama"
    - "middleburg"
    - "black and white"
-headline: ""
+headline: "/uploads/2014/3/20/l/headline.jpg"
 ---
 Middleburg is another place we like to visit when we've gotten sick of Leesburg. The two are similar in that they each have a good array of restaurants and shops. On a rare warm winter day, we all went out to see what could be seen there.
 
