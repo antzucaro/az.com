@@ -95,7 +95,13 @@ p {
   padding: 4px 4px 4px 4px;
   text-align: center;
 }
-
+/* code snippets */
+code {
+    color: #3E3E3E;
+    background-color: #EAEAEA;
+    border: 1px solid #DBDBDB;
+    font-size: 15px;
+}
 footer {
     float: right;
     margin-bottom: 1.5rem;
