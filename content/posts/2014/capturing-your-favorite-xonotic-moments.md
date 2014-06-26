@@ -49,7 +49,7 @@ What this does is set up a special screenshot command that binds to the backspac
 
 ### Recording
 
-At this point you have a command that sends specially-formatted screenshots into a directory. Having collected a bunch of these screenshots, you now probably want to record the sweet, sweet frags they represent for posterity's sake! Fortunately, this is the relatively easy part. The first step involves mapping the screenshots to their respective demo files. While you can eyeball the screenshot to demo relationship manually, I prefer using [a simple Python script](/uploads/2014/6/RecordingXonotic/screenshot_to_demo_second.py) to do the mapping for me. If you choose to use this, edit the directories at the top of the file to match your demo and screenshot directories and save the output for later. 
+At this point you have a command that sends specially-formatted screenshots into a directory. Having collected a bunch of these screenshots, you now probably want to record the sweet, sweet frags they represent for posterity's sake! Fortunately, this is the relatively easy part. The first step involves mapping the screenshots to their respective demo files. While you can eyeball the screenshot to demo relationship manually, I prefer using [a simple Python script](/uploads/2014/6/RecordingXonotic/screenshot_to_demo_second.py) to do the mapping for me. If you choose to use this, edit the directories at the top of the script to match your demo and screenshot directories, run the script, then finally save the output for later. 
 
 {{% polaroid
    "/uploads/2014/6/RecordingXonotic/screenshot_mapping.png"
