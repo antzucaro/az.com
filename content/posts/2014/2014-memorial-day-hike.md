@@ -1,5 +1,5 @@
 ---
-title: "2012 Memorial Day Hike"
+title: "2014 Memorial Day Hike"
 date: "2014-06-01 20:30:00-05:00"
 categories:
    - "photography"
