@@ -1,6 +1,6 @@
 /* Fonts */
 .top-bar-section ul li > a, button, .button, .tabs, .side-nav, h1, h2, h3, h4, h5, h6 {
-  font-family: 'Copse', sans-serif;
+  font-family: 'PT Sans', sans-serif;
 }
 .top-bar {
   height: 50px;
@@ -30,11 +30,11 @@
 }
 
 body {
-  font-family: 'EB Garamond', serif;
+  font-family: 'PT Sans', sans-serif;
 }
 p {
   color: rgb(68, 68, 68);
-  font-size: 1.5rem;
+  font-size: 1.3rem;
 }
 
 /* Post date */
