@@ -4,7 +4,7 @@ date: "2015-10-13 20:30:00-05:00"
 categories:
    - "hiking"
    - "photography"
-headline: ""
+headline: "/uploads/2015/10/ATMDD2/l/headline.jpg"
 ---
 I awoke the second day of the hike with some cold spots in my hammock. The temperature had dropped significantly in the night and was most likely down in the low 40s. I responded in kind by putting on my beanie, wool socks, and down-filled vest to help fight the urge to get up super early. Eventually 7AM rolled around, and with it the came came alive. I quickly packed up all my stuff and waited for Jerry and Chris to venture out. I meandered down to the spring to get some fresh water, noting how clean Rocky Run looked in the process. It truly was one of the nicer looking shelters I'd seen in my trail-travels.
 
