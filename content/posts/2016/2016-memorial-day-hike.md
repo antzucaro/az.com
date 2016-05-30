@@ -3,7 +3,7 @@ title: "2016 Memorial Day Hike"
 date: "2016-05-30 11:30:00-05:00"
 categories:
    - "photography"
-headline: ""
+headline: "/uploads/2016/5/AT2016/l/headline.jpg"
 ---
 This year's Memorial Day hike is in the bag! It was the tenth one, and our first venture into Pennsylvania. After having to travel over six hours down to Damascus last year, the two hour trip was a refreshing change of pace. The company was great, with Vapor (Firestarter?), Trout, Compass, Dreamer, and myself in attendance. Factor was notably absent for the first year in ten, but for good reason: he recently welcomed a little Factor into the world! I'm sure he had his hands full with that.
 
