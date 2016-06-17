@@ -1,7 +1,8 @@
 {{ template "chrome/header.html" . }}
-    <!-- CONTENT -->
+
+  <div class="container">
     <div class="row">
-      <div class="small-12 large-offset-1 large-10 columns">
+      <div class="twelve columns">
         <h2>{{ .Title }}</h2>
         <p class="post-date">{{ .Date.Format "January 2, 2006" }}</p>
 
@@ -14,8 +15,8 @@
         <section id="next">
           {{if .Next}}Next post: <a class="next" href="{{.Next.Permalink}}">{{.Next.Title}} <i class="icon-arrow-right"></i></a>{{end}}
         </section>
+      </div>
+    </div>
+  </div>
 
-      </div> <!-- END MAIN COLUMN -->
-    </div> <!-- END ROW -->
-    <!-- END CONTENT -->
 {{ template "chrome/footer.html" . }}
