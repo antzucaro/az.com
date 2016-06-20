@@ -44,6 +44,19 @@
     font-size: 1.2rem;
 }
 
+/* Nav */
+.logo {
+    font-size: 2.0rem;
+    padding-right: 1.5rem;
+}
+.top-nav a {
+    text-decoration: none;
+}
+ul.nav li {
+    display: inline;
+    padding-right: 1rem;
+}
+
 .about-image {
   float: right;
   margin: 10px 10px 10px 0px;
