@@ -2,7 +2,8 @@
 
   <div class="container">
     <div class="row">
-      <div class="twelve columns">
+      <div class="one column">&nbsp;</div>
+      <div class="ten columns">
         <h2>{{ .Title }}</h2>
         <p class="post-date">{{ .Date.Format "January 2, 2006" }}</p>
 
@@ -16,6 +17,7 @@
           {{if .Next}}Next post: <a class="next" href="{{.Next.Permalink}}">{{.Next.Title}} <i class="icon-arrow-right"></i></a>{{end}}
         </section>
       </div>
+      <div class="one column">&nbsp;</div>
     </div>
   </div>
 
