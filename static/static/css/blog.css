@@ -57,6 +57,14 @@ ul.nav li {
     padding-right: 1rem;
 }
 
+ul.nav li a {
+    color: rgb(125, 125, 125);
+}
+
+ul.nav li a:hover {
+    color: rgb(100, 100, 100);
+}
+
 .about-image {
   float: right;
   margin: 10px 10px 10px 0px;
