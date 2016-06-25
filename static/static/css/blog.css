@@ -109,3 +109,19 @@ code {
   margin-bottom: 0.5rem;
   text-align: center;
 }
+
+/* Labels */
+.label {
+  font-weight: normal;
+  text-align: center;
+  text-decoration: none;
+  line-height: 1;
+  white-space: nowrap;
+  display: inline-block;
+  position: relative;
+  margin-bottom: inherit;
+  padding: 0.25rem 0.5rem 0.375rem;
+  font-size: 1rem;
+  background-color: #008cba;
+  color: white; 
+}
