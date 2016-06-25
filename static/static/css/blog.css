@@ -49,6 +49,9 @@
     font-size: 2.0rem;
     padding-right: 1.5rem;
 }
+.top-nav {
+    margin-top: 20px;
+}
 .top-nav a {
     text-decoration: none;
 }
