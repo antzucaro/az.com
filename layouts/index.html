@@ -1,20 +1,26 @@
 {{ template "chrome/header.html" . }}
-    <!-- CONTENT -->
+
+<div class="container">
+
     {{ range first 5 .Data.Pages }}
     <div class="row">
-      <div class="small-12 large-offset-1 large-10 columns">
+      <div class="one column">&nbsp;</div>
+      <div class="ten columns">
         {{ .Render "summary" }}
         <hr />
       </div> 
+      <div class="one column">&nbsp;</div>
     </div>
     {{ end }}
 
     <div class="row">
-      <div class="small-12 large-offset-1 large-10 columns">
-        <h4>View older posts in <a href="/posts" title="Posts archive">the archive</a>...</h4>
+      <div class="one column">&nbsp;</div>
+      <div class="ten columns">
+        <p>View older posts in <a href="/posts" title="Posts archive">the posts archive</a>...</p>
       </div>
+      <div class="one column">&nbsp;</div>
     </div>
 
-    <!-- END CONTENT -->
+</div>
 
 {{ template "chrome/footer.html" . }}

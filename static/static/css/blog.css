@@ -1,7 +1,11 @@
 /* Post date */
 .post-title {
-    font-size: 1.7rem;
+    font-size: 2rem;
 }
+.post-title a {
+    text-decoration: none;
+}
+
 .post-date {
   color: rgb(125, 125, 125);
   font-size: 1.5rem;
@@ -40,6 +44,7 @@ ul.nav li a:hover {
 }
 
 .about-image {
+  border-radius: 25px;
   float: right;
   margin: 10px 10px 10px 0px;
 }
@@ -79,6 +84,9 @@ ul.nav li a:hover {
   max-width: 100%;
   padding: 4px 4px 4px 4px;
   text-align: center;
+}
+.headline-image {
+  text-align: left;
 }
 
 /* Code snippets */
