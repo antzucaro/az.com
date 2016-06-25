@@ -1,32 +1,3 @@
-/* Top bar */
-.top-bar {
-  height: 50px;
-}
-.top-bar .name h1 a {
-  font-size: 1.8em;
-  padding: 0px 15px 0px 0px;
-}
-.top-bar-section li:not(.has-form) a:not(.button) {
-  line-height: 50px;
-}
-.top-bar, .contain-to-grid {
-  background: #A53838;
-  margin-bottom: 15px;
-}
-.top-bar.expanded .title-area {
-  background: #A53838;
-}
-.top-bar-section li:not(.has-form) a:not(.button) {
-  background: #A53838;
-}
-.top-bar-section li:not(.has-form) a:not(.button):hover {
- background: #7F2828;
-}
-.top-bar-section ul li > a {
-    font-size: 1.2rem;
-}
-
-
 /* Post date */
 .post-title {
     font-size: 1.7rem;
@@ -109,7 +80,8 @@ ul.nav li a:hover {
   padding: 4px 4px 4px 4px;
   text-align: center;
 }
-/* code snippets */
+
+/* Code snippets */
 code {
     color: #3E3E3E;
     background-color: #EAEAEA;
@@ -136,59 +108,4 @@ code {
   font-size: 1.2rem;
   margin-bottom: 0.5rem;
   text-align: center;
-}
-
-/* Photo sets */
-.photoset {
-    overflow: hidden;
-    width: 100%;
-}
-.photoset .photoset-row {
-    margin-bottom: .5rem;
-    overflow: hidden;
-    width: 150%;
-}
-.photoset .photoset-row:last-child { margin: 0; }
-.photoset .photoset-item {
-    display: block;
-    float: left;
-    margin: 0 .25rem;
-}
-.photoset .photoset-item:first-child { margin-left: 0; }
-.photoset .photoset-item:last-child  { margin-right: 0; }
-.photoset figure {
-    margin: 0;
-    overflow: hidden;
-    position: relative;
-}
-.photoset figcaption {
-    background-color: rgba(255, 255, 255, .75);
-    box-sizing: border-box;
-    font-size: .75rem;
-    padding: .5rem;
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    -webkit-transform: translateY(100%);
-    transform: translateY(100%);
-    transition: all .5s ease-in-out;
-}
-.photoset-item a {
-    background-position: center center;
-    background-size: cover;
-    border: 0;
-    display: block;
-    position: relative;
-    width: 100%;
-    height: 100%;
-}
-.photoset .photoset-item:hover a + figcaption {
-    -webkit-transform: translateY(0);
-    transform: translateY(0);
-}
-.photoset img {
-    display: block;
-    max-width: 100%;
-    transition: all .25s ease-in-out;
 }
