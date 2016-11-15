@@ -4,21 +4,21 @@
 
     {{ range first 5 .Data.Pages }}
     <div class="row">
-      <div class="one column">&nbsp;</div>
-      <div class="ten columns">
+      <div class="two columns">&nbsp;</div>
+      <div class="eight columns">
         {{ .Render "summary" }}
         <hr />
       </div> 
-      <div class="one column">&nbsp;</div>
+      <div class="two columns">&nbsp;</div>
     </div>
     {{ end }}
 
     <div class="row">
-      <div class="one column">&nbsp;</div>
-      <div class="ten columns">
+      <div class="two columns">&nbsp;</div>
+      <div class="eight columns">
         <p>View older posts in <a href="/posts" title="Posts archive">the posts archive</a>...</p>
       </div>
-      <div class="one column">&nbsp;</div>
+      <div class="two columns">&nbsp;</div>
     </div>
 
 </div>
