@@ -95,9 +95,9 @@ func processImage(path string) error {
 func calc_resize_options(fn string) (m_option string, l_option string) {
 
 	C_L_SIZE := 1000
-	C_M_SIZE := 650
+	C_M_SIZE := 800
 	PANO_L_SIZE := 1600
-	PANO_M_SIZE := 650
+	PANO_M_SIZE := 800
 
 	width, height := get_width_height(fn)
 
@@ -156,14 +156,14 @@ func generate_html(m_fn string, l_fn string, caption string) {
 
 	defer of.Close()
 
-    /*
-	fmt.Fprintf(of, "<div class='wp-caption aligncenter'>\n")
-	fmt.Fprintf(of, "  <a href=\"%s%s\" title=\"%s\">\n", MEDIA_URL, l_fn, caption)
-	fmt.Fprintf(of, "    <img alt=\"%s\" title=\"%s\" src=\"%s%s\">\n", caption, caption, MEDIA_URL, m_fn)
-	fmt.Fprintf(of, "  </a>\n")
-	fmt.Fprintf(of, "    <p class='wp-caption-text'>%s</p>\n", caption)
-	fmt.Fprintf(of, "</div>\n\n")
-    */
+	/*
+		fmt.Fprintf(of, "<div class='wp-caption aligncenter'>\n")
+		fmt.Fprintf(of, "  <a href=\"%s%s\" title=\"%s\">\n", MEDIA_URL, l_fn, caption)
+		fmt.Fprintf(of, "    <img alt=\"%s\" title=\"%s\" src=\"%s%s\">\n", caption, caption, MEDIA_URL, m_fn)
+		fmt.Fprintf(of, "  </a>\n")
+		fmt.Fprintf(of, "    <p class='wp-caption-text'>%s</p>\n", caption)
+		fmt.Fprintf(of, "</div>\n\n")
+	*/
 
 	fmt.Fprintln(of, "{{% polaroid")
 	fmt.Fprintf(of, "   \"%s%s\"\n", MEDIA_URL, m_fn)
