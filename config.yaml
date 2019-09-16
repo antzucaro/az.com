@@ -3,4 +3,8 @@ indexes:
   category: "categories"
   tag: "tags"
 baseurl: "http://antzucaro.com/"
+disableKinds:
+    - section
+    - taxonomy
+    - taxonomyTerm
 ---
