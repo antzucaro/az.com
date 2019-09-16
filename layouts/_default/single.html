@@ -10,11 +10,11 @@
         {{ .Content }}
 
         <section id="prev">
-          {{if .Prev}}Previous post: <a class="previous" href="{{.Prev.Permalink}}"><i class="icon-arrow-left"></i> {{.Prev.Title}}</a><br>{{end}}
+          {{if .NextPage}}Next post: <a class="previous" href="{{.NextPage.Permalink}}"><i class="icon-arrow-left"></i> {{.NextPage.Title}}</a><br>{{end}}
         </section>
 
         <section id="next">
-          {{if .Next}}Next post: <a class="next" href="{{.Next.Permalink}}">{{.Next.Title}} <i class="icon-arrow-right"></i></a>{{end}}
+          {{if .PrevPage}}Previous post: <a class="next" href="{{.PrevPage.Permalink}}">{{.PrevPage.Title}} <i class="icon-arrow-right"></i></a>{{end}}
         </section>
       </div>
       <div class="two columns">&nbsp;</div>
