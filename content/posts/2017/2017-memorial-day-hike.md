@@ -31,10 +31,12 @@ Back at the Inn we passed the time waiting for Dreamer by watching Seinfeld re-r
 and catching-up on what we'd been up to. He arrived as expected and shared a few
 beers with us. Given our early start the next morning, we all grabbed some sleep shortly thereafter.
 
-{{% polaroid
+{{% polaroid-lqip
    "/uploads/2017/6/ATHike/m/AT_2305_m.jpg"
    "/uploads/2017/6/ATHike/l/AT_2305_l.jpg"
    "The Old Mill Inn at Damascus"
+   "800"
+   "598"
 %}}
 
 ### Day 1: Damascus to Double Springs Shelter (18.5 miles)
@@ -45,16 +47,20 @@ at the vast array of food spread on the table at the head of the room. The eggs 
 in a tray that made them look like corn bread. We devoured the food and guzzled the coffee
 quickly before going back to the room for final preparations.
 
-{{% polaroid
+{{% polaroid-lqip
    "/uploads/2017/6/ATHike/m/AT_2304_m.jpg"
    "/uploads/2017/6/ATHike/l/AT_2304_l.jpg"
    "The guys before we depart"
+   "800"
+   "598"
 %}}
 
-{{% polaroid
+{{% polaroid-lqip
    "/uploads/2017/6/ATHike/m/AT_2307_m.jpg"
    "/uploads/2017/6/ATHike/l/AT_2307_l.jpg"
    "Downtown Damascus before we leave"
+   "800"
+   "598"
 %}}
 
 We hit the trail just a short time later at 7:45. The weather was beautiful: mid-60s with
@@ -63,22 +69,28 @@ The incline was steep at a 500 ft/mi, but since it is the first day and we all h
 feet, we all take the steep grade in stride. The only annoyance is the
 chill we get when stopped due to the breeze meeting with the sweat.
 
-{{% polaroid
+{{% polaroid-lqip
    "/uploads/2017/6/ATHike/m/AT_2316_m.jpg"
    "/uploads/2017/6/ATHike/l/AT_2316_l.jpg"
    "3.5 miles in we cross into Tennessee"
+   "800"
+   "598"
 %}}
 
-{{% polaroid
+{{% polaroid-lqip
    "/uploads/2017/6/ATHike/m/AT_2322_m.jpg"
    "/uploads/2017/6/ATHike/l/AT_2322_l.jpg"
    "Taking a break in the big green tunnel"
+   "800"
+   "598"
 %}}
 
-{{% polaroid
+{{% polaroid-lqip
    "/uploads/2017/6/ATHike/m/AT_2329_m.jpg"
    "/uploads/2017/6/ATHike/l/AT_2329_l.jpg"
    "A fork in the path near Abingdon Gap"
+   "800"
+   "598"
 %}}
 
 We reach our first trail milestone as we come upon Abingdon Gap Shelter. It's much different
@@ -92,22 +104,28 @@ the same for the associated springs, but they all seemed to be 0.3 miles away fr
 each shelter and down incredibly steep inclines. Who wants to add over a half mile to
 your trip fetching water? Not me.
 
-{{% polaroid
+{{% polaroid-lqip
    "/uploads/2017/6/ATHike/m/AT_2335_m.jpg"
    "/uploads/2017/6/ATHike/l/AT_2335_l.jpg"
    "Surrounded by greenery"
+   "598"
+   "800"
 %}}
 
-{{% polaroid
+{{% polaroid-lqip
    "/uploads/2017/6/ATHike/m/AT_2337_m.jpg"
    "/uploads/2017/6/ATHike/l/AT_2337_l.jpg"
    ""
+   "800"
+   "598"
 %}}
 
-{{% polaroid
+{{% polaroid-lqip
    "/uploads/2017/6/ATHike/m/AT_2339_m.jpg"
    "/uploads/2017/6/ATHike/l/AT_2339_l.jpg"
    ""
+   "800"
+   "598"
 %}}
 
 We paused for lunch at the shelter and the breeze pelted our sweaty clothes. Factor
@@ -116,10 +134,12 @@ We tried to engage in conversation, but neither of us could hear anything over t
 his Chipotle burrito costume. Dreamer brought out his huge (heavy) bag of pistachios for
 everyone to share while Compass threatened to fall asleep sitting upright.
 
-{{% polaroid
+{{% polaroid-lqip
    "/uploads/2017/6/ATHike/m/AT_2340_m.jpg"
    "/uploads/2017/6/ATHike/l/AT_2340_l.jpg"
    "Factor doing his best impersonation of a Chipotle burrito. I'm impressed."
+   "800"
+   "598"
 %}}
 
 Departing Abingdon Gap Shelter, we go through a series of ups and downs that are
@@ -132,16 +152,20 @@ some wonderful Paul Simon tunes, which help me keep the Megadeth songs out of my
 head for a small amount of time. I'd (foolishly?) listened to Rust In Peace on
 my way into town and couldn't get Dave Mustaine's snarling vocals out of my skull.
 
-{{% polaroid
+{{% polaroid-lqip
    "/uploads/2017/6/ATHike/m/AT_2341_m.jpg"
    "/uploads/2017/6/ATHike/l/AT_2341_l.jpg"
    "Hey guys, want to do a few more miles? Riiiiiight."
+   "800"
+   "598"
 %}}
 
-{{% polaroid
+{{% polaroid-lqip
    "/uploads/2017/6/ATHike/m/AT_2344_m.jpg"
    "/uploads/2017/6/ATHike/l/AT_2344_l.jpg"
    "Double Springs Shelter"
+   "800"
+   "598"
 %}}
 
 Dreamer claims later that he got double the sleep he normally gets on that night. Being
@@ -159,40 +183,52 @@ to allow ourselves to take it in even though we haven't accumulated much
 mileage. After quite a while of picture taking we notice a baby cow directly to our
 left. It doesn't appear to be in good health and ambled away when we approached it.
 
-{{% polaroid
+{{% polaroid-lqip
    "/uploads/2017/6/ATHike/m/AT_2345_m.jpg"
    "/uploads/2017/6/ATHike/l/AT_2345_l.jpg"
    "The trail leading out of Double Springs"
+   "800"
+   "598"
 %}}
 
-{{% polaroid
+{{% polaroid-lqip
    "/uploads/2017/6/ATHike/m/AT_2348_m.jpg"
    "/uploads/2017/6/ATHike/l/AT_2348_l.jpg"
    "The start of the .8-mile path through the farm"
+   "800"
+   "598"
 %}}
 
-{{% polaroid
+{{% polaroid-lqip
    "/uploads/2017/6/ATHike/m/AT_2351_m.jpg"
    "/uploads/2017/6/ATHike/l/AT_2351_l.jpg"
    "Looking back at the woods we came from"
+   "800"
+   "598"
 %}}
 
-{{% polaroid
+{{% polaroid-lqip
    "/uploads/2017/6/ATHike/m/AT_2357_m.jpg"
    "/uploads/2017/6/ATHike/l/AT_2357_l.jpg"
    "More farm path"
+   "800"
+   "598"
 %}}
 
-{{% polaroid
+{{% polaroid-lqip
    "/uploads/2017/6/ATHike/m/AT_2359_m.jpg"
    "/uploads/2017/6/ATHike/l/AT_2359_l.jpg"
    "Looking East"
+   "800"
+   "598"
 %}}
 
-{{% polaroid
+{{% polaroid-lqip
    "/uploads/2017/6/ATHike/m/AT_2364_m.jpg"
    "/uploads/2017/6/ATHike/l/AT_2364_l.jpg"
    ""
+   "800"
+   "598"
 %}}
 
 We push past the rest of the thankfully-easy farm path and into the mud-laden
@@ -208,16 +244,20 @@ suffered alone, and died alone." It's not the first time that we've come across
 grave sites on our treks in the woods, but it might have been the first solitary
 one. It also had a peculiar look to it that I don't think I've seen before.
 
-{{% polaroid
+{{% polaroid-lqip
    "/uploads/2017/6/ATHike/m/AT_2365_m.jpg"
    "/uploads/2017/6/ATHike/l/AT_2365_l.jpg"
    "A barred owl glaring at us"
+   "800"
+   "598"
 %}}
 
-{{% polaroid
+{{% polaroid-lqip
    "/uploads/2017/6/ATHike/m/AT_2370_m.jpg"
    "/uploads/2017/6/ATHike/l/AT_2370_l.jpg"
    "The Nick Grindstaff tomb"
+   "598"
+   "800"
 %}}
 
 On the ridge past Iron Mountain we suffer through a series of mini up-downs
@@ -241,22 +281,28 @@ road without encountering any spur trail, which boosted our mileage for the
 day from a planned 14.4 miles to a grueling 19.1 miles. Dreamer lightens the mood
 during the drudgery with his uncannily accurate impression of Trump.
 
-{{% polaroid
+{{% polaroid-lqip
    "/uploads/2017/6/ATHike/m/AT_2377_m.jpg"
    "/uploads/2017/6/ATHike/l/AT_2377_l.jpg"
    "Pausing at the spring (a good one, at that) before Wilbur Dam Road"
+   "800"
+   "598"
 %}}
 
-{{% polaroid
+{{% polaroid-lqip
    "/uploads/2017/6/ATHike/m/AT_2379_m.jpg"
    "/uploads/2017/6/ATHike/l/AT_2379_l.jpg"
    ""
+   "800"
+   "598"
 %}}
 
-{{% polaroid
+{{% polaroid-lqip
    "/uploads/2017/6/ATHike/m/AT_2380_m.jpg"
    "/uploads/2017/6/ATHike/l/AT_2380_l.jpg"
    ""
+   "800"
+   "598"
 %}}
 
 Gazillions of thru hikers pass us as they pushed up the mountain as we head down it.
@@ -296,34 +342,44 @@ down to lake-level a few hundred yards later. The huge amount of rain pushed the
 the trail itself at some points, making negotiating footholds a bit
 treacherous. No one wanted to get soaked shoes in the last few miles.
 
-{{% polaroid
+{{% polaroid-lqip
    "/uploads/2017/6/ATHike/m/AT_2383_m.jpg"
    "/uploads/2017/6/ATHike/l/AT_2383_l.jpg"
    "The final stretch"
+   "800"
+   "598"
 %}}
 
-{{% polaroid
+{{% polaroid-lqip
    "/uploads/2017/6/ATHike/m/AT_2386_m.jpg"
    "/uploads/2017/6/ATHike/l/AT_2386_l.jpg"
    "Watauga Lake"
+   "800"
+   "598"
 %}}
 
-{{% polaroid
+{{% polaroid-lqip
    "/uploads/2017/6/ATHike/m/AT_2388_m.jpg"
    "/uploads/2017/6/ATHike/l/AT_2388_l.jpg"
    ""
+   "800"
+   "598"
 %}}
 
-{{% polaroid
+{{% polaroid-lqip
    "/uploads/2017/6/ATHike/m/AT_2392_m.jpg"
    "/uploads/2017/6/ATHike/l/AT_2392_l.jpg"
    ""
+   "800"
+   "598"
 %}}
 
-{{% polaroid
+{{% polaroid-lqip
    "/uploads/2017/6/ATHike/m/AT_2395_m.jpg"
    "/uploads/2017/6/ATHike/l/AT_2395_l.jpg"
    "Looking out from one of the fingers"
+   "800"
+   "598"
 %}}
 
 We made our way around several of the "fingers" of the lake and came upon
@@ -331,10 +387,12 @@ Compass's truck in short order. The pain was over! We grabbed some delicious
 buffet breakfast at [Shirley's Home Cooking][Shirley's Home Cooking]. It was just what the doctor ordered
 and we all gorged on grease and coffee before heading back to Damascus.
 
-{{% polaroid
+{{% polaroid-lqip
    "/uploads/2017/6/ATHike/m/AT_2406_m.jpg"
    "/uploads/2017/6/ATHike/l/AT_2406_l.jpg"
    "The finish line is in sight"
+   "800"
+   "598"
 %}}
 
 ### Notes to Self
