@@ -3,3 +3,6 @@ static/uploads/
 
 # The destination/output directory
 public/
+
+# Generated resources during the build
+resources/
