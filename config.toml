@@ -1,0 +1,27 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+theme = ["overrides", "hyde-hyde"]
+title = "Random Thoughts and Geekery"
+
+[Menus]
+  main = [
+      {Name = "photography", URL = "/categories/photography"},
+      {Name = "archive", URL = "/posts/"},
+      {Name = "about", URL = "/about/"},
+  ]
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[params]
+authorimage = "static/img/avatar.jpg"
+copyright = "Ant Zucaro"
+description = "by Ant Zucaro"
+showBuiltWith = true
+since = 2010
+themeColor = "theme-base-hokie"
+
+[params.social]
+github = "antzucaro"
+gitlab = "Antibody"
+instagram = "dfdashh"
