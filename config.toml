@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "http://antzucaro.com/"
 languageCode = "en-us"
 theme = ["overrides", "hyde-hyde"]
 title = "Random Thoughts and Geekery"
