@@ -17,7 +17,7 @@ unsafe = true
 authorimage = "static/img/avatar.jpg"
 copyright = "Ant Zucaro"
 description = "by Ant Zucaro"
-showBuiltWith = true
+showBuiltWith = false
 since = 2010
 themeColor = "theme-base-hokie"
 

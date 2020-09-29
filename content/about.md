@@ -5,13 +5,13 @@ type: page
 
 <img class="about-image" src="/static/img/ant.jpg" alt="Me!">
 
-Hello! I'm Ant. I'm an Oracle database administrator and software developer 
+Hello! I'm Ant. I'm a software engineer 
 working out of Northern Virginia. I'm big into free software, and can be found 
 fiddling with various pieces of code daily. Sometimes I come up with fun 
 shortcuts or nuggets of "hacker-like" value that I'll put up here.
 
 A big piece of my life is being a dad and a husband. I really enjoy spending 
-time with my beautiful wife Kristin and our happy girls Layla and Adriana. 
+time with my beautiful wife and our two happy girls. 
 We spend our weekends driving all around the Washington DC metro area looking 
 for fun things to do.
 
