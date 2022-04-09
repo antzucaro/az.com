@@ -1,0 +1,123 @@
+/* Shared vars */
+:root {
+  color-scheme: light;
+  --code-background-color: #edf0f3;
+  --code-color: var(--muted-color);
+  --code-kbd-background-color: var(--contrast);
+  --code-kbd-color: var(--contrast-inverse);
+  --code-tag-color: #b34d80;
+  --code-property-color: #3d888f;
+  --code-value-color: #998866;
+  --code-comment-color: #a2afb9;
+  --contrast: #1b2832;
+  --font-family: system-ui, -apple-system, "Segoe UI", "Roboto", "Ubuntu",
+    "Cantarell", "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol", "Noto Color Emoji";
+  --font-weight: 400;
+  --line-height: 1.5;
+  --muted-color: #444;
+  --spacing: 1rem;
+  --typography-spacing-vertical: 1.5rem;
+}
+
+/* Code */
+pre,
+code,
+kbd,
+samp {
+  --font-family: "Menlo", "Consolas", "Roboto Mono", "Ubuntu Monospace",
+    "Noto Mono", "Oxygen Mono", "Liberation Mono", monospace,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+address,
+blockquote,
+dl,
+figure,
+form,
+ol,
+p,
+pre,
+table,
+ul {
+  margin-top: 0;
+  margin-bottom: var(--typography-spacing-vertical);
+  color: var(--color);
+  font-style: normal;
+  font-weight: var(--font-weight);
+  font-size: var(--font-size);
+}
+
+pre,
+code,
+kbd,
+samp {
+  font-size: 0.875em;
+  font-family: var(--font-family);
+}
+
+pre {
+  -ms-overflow-style: scrollbar;
+  overflow: auto;
+}
+
+pre,
+code,
+kbd {
+  border-radius: var(--border-radius);
+  background: var(--code-background-color);
+  color: var(--code-color);
+  font-weight: var(--font-weight);
+  line-height: initial;
+}
+
+code,
+kbd {
+  display: inline-block;
+  padding: 0.375rem 0.5rem;
+}
+
+pre {
+  display: block;
+  margin-bottom: var(--spacing);
+  overflow-x: auto;
+}
+pre > code {
+  display: block;
+  padding: var(--spacing);
+  background: none;
+  font-size: 14px;
+  line-height: var(--line-height);
+}
+
+code b {
+  color: var(--code-tag-color);
+  font-weight: var(--font-weight);
+}
+code i {
+  color: var(--code-property-color);
+  font-style: normal;
+}
+code u {
+  color: var(--code-value-color);
+  text-decoration: none;
+}
+code em {
+  color: var(--code-comment-color);
+  font-style: normal;
+}
+
+kbd {
+  background-color: var(--code-kbd-background-color);
+  color: var(--code-kbd-color);
+  vertical-align: baseline;
+}
+
+/* Spacing */
+.content {
+	margin-top: 0;
+}
+
+.content article header {
+	margin-top: 2rem;
+}

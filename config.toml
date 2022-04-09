@@ -1,6 +1,6 @@
 baseURL = "https://antzucaro.com/"
 languageCode = "en-us"
-theme = ["overrides", "hugo-coder"]
+theme = ["hugo-coder-overrides", "hugo-coder"]
 title = "Random Thoughts and Geekery"
 
 [Menus]
@@ -22,6 +22,7 @@ hideColorSchemeToggle=true
 copyright = "Ant Zucaro"
 since = 2010
 paginate = 20
+customCSS = ["css/extra.css"]
 customJS = ["js/lazysizes.min.js"]
 
 [[params.social]]
