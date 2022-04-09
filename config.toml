@@ -1,6 +1,6 @@
 baseURL = "https://antzucaro.com/"
 languageCode = "en-us"
-theme = ["overrides", "hyde-hyde"]
+theme = ["overrides", "hugo-coder"]
 title = "Random Thoughts and Geekery"
 
 [Menus]
@@ -14,14 +14,30 @@ title = "Random Thoughts and Geekery"
 unsafe = true
 
 [params]
-authorimage = "static/img/avatar.jpg"
-copyright = "Ant Zucaro"
+author = "Ant Zucaro"
+info = "Coder, Photographer"
 description = "by Ant Zucaro"
-showBuiltWith = false
+avatarurl = "static/img/avatar_real.jpg"
+hideColorSchemeToggle=true
+copyright = "Ant Zucaro"
 since = 2010
-themeColor = "theme-base-hokie"
+paginate = 20
+customJS = ["js/lazysizes.min.js"]
 
-[params.social]
-github = "antzucaro"
-gitlab = "Antibody"
-instagram = "dfdashh"
+[[params.social]]
+name = "Gitlab"
+icon = "fa fa-gitlab fa-2x"
+weight = 1
+url = "https://www.gitlab.com/antibody"
+
+[[params.social]]
+name = "GitHub"
+icon = "fa fa-github fa-2x"
+weight = 2
+url = "https://www.github.com/antzucaro"
+
+[[params.social]]
+name = "Instagram"
+icon = "fa fa-instagram fa-2x"
+weight = 3
+url = "https://www.instagram.com/dfdashh"
