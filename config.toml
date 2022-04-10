@@ -5,9 +5,9 @@ title = "Random Thoughts and Geekery"
 
 [Menus]
   main = [
-      {Name = "photography", URL = "/categories/photography"},
-      {Name = "archive", URL = "/posts/"},
-      {Name = "about", URL = "/about/"},
+      {Name = "posts", URL = "/posts/", weight = 1},
+      {Name = "photography", URL = "/categories/photography", weight = 2},
+      {Name = "about", URL = "/about/", weight = 3},
   ]
 
 [markup.goldmark.renderer]
