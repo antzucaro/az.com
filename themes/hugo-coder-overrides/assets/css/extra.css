@@ -1,6 +1,7 @@
 /* Shared vars */
 :root {
   color-scheme: light;
+  --border-radius: 5px;
   --code-background-color: #edf0f3;
   --code-color: var(--muted-color);
   --code-kbd-background-color: var(--contrast);
@@ -120,4 +121,19 @@ kbd {
 
 .content article header {
 	margin-top: 2rem;
+}
+
+/* Picture captions */
+.wp-caption {
+    margin-bottom: 10px;
+}
+
+.wp-caption-text {
+    font-size: 14px;
+    font-style: italic;
+}
+
+.wp-caption img {
+    border-radius: 10px;
+    max-width: 100%;
 }
