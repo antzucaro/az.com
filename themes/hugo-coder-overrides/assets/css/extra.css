@@ -4,8 +4,8 @@
   --border-radius: 5px;
   --code-background-color: #edf0f3;
   --code-color: var(--muted-color);
-  --code-kbd-background-color: var(--contrast);
-  --code-kbd-color: var(--contrast-inverse);
+  --code-kbd-background-color: #404040;
+  --code-kbd-color: #dbdbdb;
   --code-tag-color: #b34d80;
   --code-property-color: #3d888f;
   --code-value-color: #998866;

@@ -1,5 +1,5 @@
 deploy: gen
-	rsync --size-only -av public/ azucaro@antzucaro.com:/home/azucaro/antzucaro.com/public/
+	rsync --size-only -av public/ ant@antzucaro.com:/var/www/antzucaro.com/html/
 
 gen:
 	hugo
